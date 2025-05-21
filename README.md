@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi I'm  Adil Prasetya👋
 
 <!--
 **adielprs/adielprs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +13,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+--> 
+
+I am a graduate of SMK Negeri 1 Batuliang, majoring in software engineering, I am a backend developer, I master several programming languages ​​such as JavaScript, PHP and also master backend frameworks such as NodeJS and Laravel
