@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 --> 
 
-I am a graduate of SMK Negeri 1 Batuliang, majoring in software engineering, I am a backend developer, I master several programming languages ​​such as JavaScript, PHP and also master backend frameworks such as NodeJS and Laravel
+I am a graduate of SMK Negeri 1 Batukliang, majoring in software engineering, I am a backend developer, I master several programming languages ​​such as JavaScript, PHP and also master backend frameworks such as NodeJS and Laravel
 
 #### Skills
 [![My Skills](https://skillicons.dev/icons?i=html,javascript,nodejs,laravel&theme=light)](https://skillicons.dev)
